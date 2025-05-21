@@ -1,0 +1,59 @@
+header{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 30px;
+}
+.head1{
+  height: 30px;
+  background-color: whitesmoke;
+}
+.head2{
+  height: 30px;
+  background-color: black;
+  color: white;
+}
+i.fa-phone{
+  margin-left: 20px;
+}
+i.fa-envelope{
+  margin-left: 120px;
+}
+.button1{
+  margin-left: 600px;
+  width: 100px;
+  border-radius: 10px;
+}
+nav{
+  display: flex;
+}
+nav ul{
+  display: flex;
+  gap: 30px;
+  margin-top: 25px;
+}
+nav ul li{
+  list-style-type: none;
+}
+nav ul li a{
+  color: black;
+  font-weight: 500;
+}
+select{
+  width: 20px;
+  border: none;
+}
+.head3{
+  display: flex;
+}
+.content{
+  width: 250px;
+  color: white;
+  padding: 10px;
+}
+footer{
+  background-color:gray;
+  color:black;
+  height: 150px;
+  padding-top: 30px;
+}
